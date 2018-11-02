@@ -1,0 +1,41 @@
+body{
+    background:#a336f7;
+    font-family: 'Noto Sans JP', sans-serif;
+}
+h1{
+    color:pink;
+    text-align:center;
+    text-decoration: underline;
+}
+h2{
+    color:white;
+    text-align:left;
+    font-family: 'Varela Round', sans-serif;
+    text-decoration: underline;
+
+}
+p {
+   color:white;
+   font-family: 'Arvo', serif; 
+}
+ul {
+    color:pink;
+    font-family: 'Varela Round', sans-serif;
+}
+#twitter{
+    width:50px;
+}
+#amanda{
+    width:300px;
+}    
+#ozuna{
+    width:300px;
+}    
+#ariana{
+    width:250px; 
+    height:300px;
+}    
+:hover{
+    background-color:black;
+    color:#ff56ee;
+}
